@@ -1,5 +1,5 @@
 +++
-title = "Footprints"
+title = "My Footprints"
 slug = "footprints"
 thumbnail = "images/avatar.jpg"
 description = "these are some of my technical footprint on the Internet."

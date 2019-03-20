@@ -88,6 +88,12 @@ disqusShortname = "yourdiscussshortname"
                 name = "Footprints"
                 weight = 3
                 url = "footprints"
+
+            [[languages.en.menu.main]]
+                name = "Works"
+                weight = 3
+                url = "works"
+
             [[languages.en.menu.main]]
                 name = "Contact"
                 weight = 5
