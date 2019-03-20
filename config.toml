@@ -77,7 +77,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
                 name = "About"
                 weight = 1.0
-                url = "about"
+                url = "/about"
 
             [[languages.en.menu.main]]
                 name = "Notes"
@@ -87,14 +87,14 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
                 name = "Footprints"
                 weight = 3
-                url = "footprints"
+                url = "/footprints"
 
             [[languages.en.menu.main]]
                 name = "Works"
                 weight = 3
-                url = "works"
+                url = "/works"
 
             [[languages.en.menu.main]]
                 name = "Contact"
                 weight = 5
-                url = "contact"
+                url = "/contact"
