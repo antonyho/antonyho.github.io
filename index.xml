@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Footprints</title>
+      <title>My Footprints</title>
       <link>https://antonyho.net/footprints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,6 +38,19 @@
 Contributed Open source projects https://gitlab.freedesktop.org/cangjie/libcangjie
 Arch Linux AUR Package https://aur.archlinux.org/packages/?SeB=m&amp;amp;K=antony.ho
 Look me up on StackOverflow.com https://stackexchange.com/users/435981/antony-h</description>
+    </item>
+    
+    <item>
+      <title>My Works</title>
+      <link>https://antonyho.net/works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antonyho.net/works/</guid>
+      <description>The most easiest way to find my works is to check my GitHub, right?
+https://github.com/antonyho
+An image pastebin on Google AppEngine http://imagepastebin.appspot.com/
+Open-source plugins for RunUO MMO game server (source code) https://github.com/antonyho/runuo-donation-store
+http://code.google.com/p/runuo-remote-admin-enrichment/</description>
     </item>
     
   </channel>
