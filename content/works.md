@@ -21,4 +21,4 @@ http://imagepastebin.appspot.com/
 
 https://github.com/antonyho/runuo-donation-store
 
-http://code.google.com/p/runuo-remote-admin-enrichment/
+https://github.com/antonyho/runuo-remote-admin-enrichment

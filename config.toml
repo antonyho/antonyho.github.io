@@ -54,10 +54,6 @@ disqusShortname = "yourdiscussshortname"
     name = "Stack Overflow"
     weight = 2
     url = "https://stackexchange.com/users/435981/antony-h"
-[[params.social]]
-    name = "Tech Note"
-    weight = 3
-    url = "http://notes.antonyho.net/"
 
 [languages]
     [languages.en]
@@ -78,11 +74,6 @@ disqusShortname = "yourdiscussshortname"
                 name = "About"
                 weight = 1.0
                 url = "about/"
-
-            [[languages.en.menu.main]]
-                name = "Notes"
-                weight = 2.0
-                url = "http://notes.antonyho.net/"
 
             [[languages.en.menu.main]]
                 name = "Footprints"

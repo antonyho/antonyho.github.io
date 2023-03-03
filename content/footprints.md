@@ -5,9 +5,9 @@ thumbnail = "images/avatar.jpg"
 description = "these are some of my technical footprint on the Internet."
 +++
 
-### Chinese technical notes I wrote
+### ~~Chinese technical notes I wrote~~ (no more update)
 
-http://notes.antonyho.net/
+~~http://notes.antonyho.net/~~
 
 ### Contributed Open source projects
 
